@@ -42,35 +42,35 @@ The following hypotheses (questions in this case) were formulated in order to be
 
 # 3. Solution Strategy
 
-Step 01 - Data Description: cleaning data, changing data type, treating missing values and descriptive statistics.
+**Step 01 - Data Description:** cleaning data, changing data type, treating missing values and descriptive statistics.
 
-Step 02 - Feature Engineering: creating new features that may better explain the phenomenon.
+**Step 02 - Feature Engineering:** creating new features that may better explain the phenomenon.
 
-Step 03 - Feature Filtering and Selection: rows filtering and columns selection.
+**Step 03 - Feature Filtering and Selection:** rows filtering and columns selection.
 
-Step 04 - Balanced Dataset: balance of the dataset.
+**Step 04 - Balanced Dataset:** balance of the dataset.
 
-Step 05 - Exploratory Data Analysis (EDA): univariate analysis, bivariate analysis (hypotheses test) and multivariate analysis.
+**Step 05 - Exploratory Data Analysis (EDA):** univariate analysis, bivariate analysis (hypotheses test) and multivariate analysis.
 
-Step 06 - Data Preprocessing: rescaling, encoding and transformation.
+**Step 06 - Data Preprocessing:** rescaling, encoding and transformation.
 
-Step 07 - Feature Selection: removing high correlated features and using Boruta algorihtm with Random Forest Regressor to select the most relevant features.
+**Step 07 - Feature Selection:** removing high correlated features and using Boruta algorihtm with Random Forest Regressor to select the most relevant features.
 
-Step 08 - Machine Learning Modelling: testing and comparing Machine Learning models.
+**Step 08 - Machine Learning Modelling:** testing and comparing Machine Learning models.
 
 # 4. Top 2 Data Insights
 
 **2.** Which is the most purchased category and sub-category?
 
-Category: mobile and accessories. 
+**Category:** mobile and accessories. 
 
-Subcategory: tops. 
+**Subcategory:** tops. 
 
 **3.** Do people add the products to cart before they purchase or buy directly?
 
-Total unique users who purchased: 167.
+**Total unique users who purchased:** 167.
 
-Total direct buy (without adding to cart): 20.
+**Total direct buy (without adding to cart):** 20.
 
-Total add_to_cart buy: 147.
+**Total add_to_cart buy:** 147.
 

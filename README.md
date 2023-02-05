@@ -57,3 +57,20 @@ Step 06 - Data Preprocessing: rescaling, encoding and transformation.
 Step 07 - Feature Selection: removing high correlated features and using Boruta algorihtm with Random Forest Regressor to select the most relevant features.
 
 Step 08 - Machine Learning Modelling: testing and comparing Machine Learning models.
+
+# 4. Top 2 Data Insights
+
+**2.** Which is the most purchased category and sub-category?
+
+Category: mobile and accessories. 
+
+Subcategory: tops. 
+
+**3.** Do people add the products to cart before they purchase or buy directly?
+
+Total unique users who purchased: 167.
+
+Total direct buy (without adding to cart): 20.
+
+Total add_to_cart buy: 147.
+

@@ -22,3 +22,38 @@ It empowers marketers to quickly identify and segment users into homogeneous gro
 
 **Strategy:** we used the CRISP-DS (Cross-Industry Process - Data Science) as the main project management methodology.
 
+# 2. Business Assumptions (Formulated Hypotheses)
+
+The following hypotheses (questions in this case) were formulated in order to be tested/answered:
+
+**1.** How many unique users in the data and how many of them purchased at least once? Also, what is the average number of purchase per customer?
+
+**2.** Which is the most purchased category and sub-category?
+
+**3.** Do people add the products to cart before they purchase or buy directly?
+
+**4.** What is the average and median time taken by a user to buy a product?
+
+**5.** What is the average and median time between repeated purchases?
+
+**6.** What is the trend of unique users across time period?
+
+**7.** What is the trend of purchase across the time period?
+
+# 3. Solution Strategy
+
+Step 01 - Data Description: cleaning data, changing data type, treating missing values and descriptive statistics.
+
+Step 02 - Feature Engineering: creating new features that may better explain the phenomenon.
+
+Step 03 - Feature Filtering and Selection: rows filtering and columns selection.
+
+Step 04 - Balanced Dataset: balance of the dataset.
+
+Step 05 - Exploratory Data Analysis (EDA): univariate analysis, bivariate analysis (hypotheses test) and multivariate analysis.
+
+Step 06 - Data Preprocessing: rescaling, encoding and transformation.
+
+Step 07 - Feature Selection: removing high correlated features and using Boruta algorihtm with Random Forest Regressor to select the most relevant features.
+
+Step 08 - Machine Learning Modelling: testing and comparing Machine Learning models.

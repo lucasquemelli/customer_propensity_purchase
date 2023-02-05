@@ -74,3 +74,14 @@ The following hypotheses (questions in this case) were formulated in order to be
 
 **Total add_to_cart buy:** 147.
 
+# 5. Business Results
+
+Random Forest and Logistic Regression predicted propensity to purchase of a user with 100% of average accuracy. However, we have a small dataset, then our model probably overfits.
+
+6. Conclusions
+
+We used Artifical Neural Network (ANN) to predict users propensity to purchase, yet due to the low number of rows, this model did not perform well. Thus, we used Random Forest Regression and Logistic Regression and we achieved an average accuracy of 100%. Yet, we must remember that we have a small dataset, which means our model probably overfits.
+
+# 7. Next Steps
+
+In an ideal problem solution, we should collect much more data in order to take conclusions and finish properly our project. Thus, we suggest this step in order to improve our project. 
